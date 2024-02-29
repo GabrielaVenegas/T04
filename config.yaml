@@ -1,0 +1,7 @@
+path:
+  PATH_RAW = './data/raw/'
+  PATH_CLEAN = '.data/prep/'
+  PATH_MODELO = './artifacts/'
+  PATH_PRED = '.data/predictions/'
+model:
+  Ls = LassoCV()

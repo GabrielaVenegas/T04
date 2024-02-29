@@ -1,0 +1,8 @@
+root - INFO - Script de inferencia
+root - INFO - Carga de data a estimar
+root - INFO - Carga de modelo
+root - INFO - Archivo test, columnas: 131
+root - INFO - Archivo test, filas: 1459
+root - INFO - Ruta de input: .data/prep/
+root - INFO - Ruta de output: .data/predictions/
+root - INFO - Se han generado las predicciones con éxito

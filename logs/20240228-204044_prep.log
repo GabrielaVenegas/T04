@@ -1,0 +1,10 @@
+root - INFO - Script de preprocesamiento
+root - INFO - Carga de datos de entrenamiento y test
+root - INFO - Archivo train, columnas: 81
+root - INFO - Archivo train, filas: 1460
+root - INFO - Archivo test, columnas: 80
+root - INFO - Archivo test, filas: 1459
+root - INFO - Ruta de input: ./data/raw/
+root - INFO - Ruta de output: .data/prep/
+numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+root - INFO - Los datos han sido preprocesados con éxito
