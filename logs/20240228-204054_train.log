@@ -6,3 +6,4 @@ root - INFO - Ruta de input: .data/prep/
 root - INFO - Ruta de output: ./artifacts/
 root - INFO - El modelo ha sido entrenado con éxito
 root - INFO - RMSE para set de entrenamiento con Lasso: 0.11858201533055168
+
