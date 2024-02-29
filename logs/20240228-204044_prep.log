@@ -8,3 +8,4 @@ root - INFO - Ruta de input: ./data/raw/
 root - INFO - Ruta de output: .data/prep/
 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
 root - INFO - Los datos han sido preprocesados con éxito
+
