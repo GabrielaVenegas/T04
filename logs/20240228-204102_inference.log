@@ -6,3 +6,4 @@ root - INFO - Archivo test, filas: 1459
 root - INFO - Ruta de input: .data/prep/
 root - INFO - Ruta de output: .data/predictions/
 root - INFO - Se han generado las predicciones con éxito
+
