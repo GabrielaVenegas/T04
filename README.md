@@ -7,6 +7,7 @@
  A continuación se presentara la estrucutura del repositorio y las instrucciones para poder utilizarlo.
 
 ### Estructura del Repositorio
+```bash
 .
 ├── artifacts
 │   └── Ls.pkl
@@ -39,7 +40,7 @@
 │   │   └── test_utils.cpython-310-pytest-8.0.2.pyc
 │   └── test_utils.py
 └── train.py
-
+```
 ### Uso
 
 Para poder usar este repositorio en necesario, clonar el repositorio y correr en el siguiente orden los script.
