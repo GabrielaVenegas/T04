@@ -49,6 +49,11 @@ Para poder usar este repositorio en necesario, clonar el repositorio y correr en
 * train.py -> python train.py
 * inference.py -> python inference.py
 
-#### Resultados "pytest"
+### Resultados "pytest"
 
 1 passed in 0.25s
+
+### Arquitectura
+
+<img width="826" alt="Captura de pantalla 2024-03-18 a la(s) 10 33 40 p m" src="https://github.com/GabrielaVenegas/T04/assets/142460558/9a95f80d-0f94-4dd0-b6ea-3f400f53e5f6">
+
